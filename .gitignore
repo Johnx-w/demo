@@ -14,3 +14,8 @@ Thumbs.db
 .idea/
 .vscode/
 *.log
+
+# 本地 Agent / 编辑器（不上交）
+.agents/
+.cursor/
+skills-lock.json
